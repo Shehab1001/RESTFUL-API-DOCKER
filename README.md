@@ -14,6 +14,18 @@ A simple Restful api with frontend application that allows you to create, read, 
 ## Steps
 
 1. Clone the repository to your local machine:-
-                git clone   gh repo clone Shehab1001/RESTFUL-API-DOCKER
+        
+        git clone https://github.com/Shehab1001/RESTFUL-API-DOCKER
 
+2. Navigate to the cloned repository:-
+    
+        cd RESTful-api
+
+3. Start the Docker containers:-
+        
+        docker-compose up
+
+4. Wait a minute or so until the application starts up. Once it's ready, you can access it by visiting the following link in your web browser.
+
+        http://localhost:8000.
 
