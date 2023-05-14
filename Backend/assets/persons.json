@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Shehab Eldin",
+        "age": "21",
+        "gender": "Male",
+        "email": "Shehab@gmail.com"
+    },
+    {
+        "id": "2",
+        "name": "Yehya",
+        "age": "23",
+        "gender": "Male",
+        "email": "Yehya@gmail.com"
+    },
+    {
+        "id": "3",
+        "name": "Karim",
+        "gender": "Male",
+        "age": "20",
+        "email": "karim@gmail.com"
+    }
+]
