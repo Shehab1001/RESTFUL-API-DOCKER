@@ -26,10 +26,11 @@ A simple Restful api with frontend application that allows you to create, read, 
         docker-compose up
 
 ### Front-end port:
-- running on port: 3000
 - URL: http://localhost:3000/
+- running on port: 3000
 
 ### Back-end port:
-- running on port: 5000
 - URL: http://localhost:5000/persons/
+- running on port: 5000
+
 
