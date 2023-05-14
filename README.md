@@ -3,25 +3,6 @@
 ## Desciption
 A simple Restful api with frontend application that allows you to create, read, update, and delete Students data. The API is built with Node.js and Express.js. The frontend app is built with HTML, bootstrap, and JavaScript. The frontend app is hosted on node. The API is connected to the frontend app with the Fetch API. 
 
-## Getting Started
-
-To get started, follow these steps:
-
-1. Clone the repository to your local machine:-
-
-        git clone https://github.com/Savoura/RESTful-api.git
-
-2. Navigate to the cloned repository:-
-
-        cd RESTful-api
-
-3. Start the Docker containers:-
-
-        docker-compose up
-
-4. Wait a minute or so until the application starts up. Once it's ready, you can access it by visiting the following link in your web browser.
-
-        http://localhost:8000/.
 
 ## Features
 
