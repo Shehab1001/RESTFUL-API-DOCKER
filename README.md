@@ -15,9 +15,13 @@ A simple Restful api with frontend application that allows you to create, read, 
 
 1. Clone the repository to your local machine:-
         
-        git clone https://github.com/Shehab1001/RESTFUL-API-DOCKER
-
-2. Navigate to the cloned repository:-
+        git clone https://github.com/Shehab1001/RESTFUL-API-DOCKER      
+        
+2. Install Node modules:-
+        
+        npm install node
+        
+4. Navigate to the cloned repository:-
     
         cd RESTFUL-API-DOCKER/
 
