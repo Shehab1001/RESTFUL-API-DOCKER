@@ -27,10 +27,10 @@ A simple Restful api with frontend application that allows you to create, read, 
 
 ### Front-end port:
 - URL: http://localhost:3000/
-- running on port: 3000
+- running port: 3000
 
 ### Back-end port:
 - URL: http://localhost:5000/persons/
-- running on port: 5000
+- running port: 5000
 
 
