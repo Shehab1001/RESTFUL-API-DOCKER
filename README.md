@@ -13,5 +13,7 @@ A simple Restful api with frontend application that allows you to create, read, 
 
 ## Steps
 
+1. Clone the repository to your local machine:-
+                git clone   gh repo clone Shehab1001/RESTFUL-API-DOCKER
 
 
