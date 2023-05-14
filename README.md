@@ -30,10 +30,14 @@ A simple Restful api with frontend application that allows you to create, read, 
         docker-compose up
 
 ### Front-end port:
+        cd frontend/
+        node js/node.js
 - URL: http://localhost:3000/
 - running port: 3000
 
 ### Back-end port:
+        cd Backend/
+        npm start
 - URL: http://localhost:5000/persons/
 - running port: 5000
 
