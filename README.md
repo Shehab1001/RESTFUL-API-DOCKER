@@ -19,13 +19,17 @@ A simple Restful api with frontend application that allows you to create, read, 
 
 2. Navigate to the cloned repository:-
     
-        cd RESTful-api
+        cd RESTFUL-API-DOCKER/
 
 3. Start the Docker containers:-
         
         docker-compose up
 
-4. Wait a minute or so until the application starts up. Once it's ready, you can access it by visiting the following link in your web browser.
+### front-end:
+- running on port: 3000
+- URL: http://localhost:3000/
 
-        http://localhost:8000.
+### back-end:
+- running on port: 5000
+- URL: http://localhost:5000/persons/
 
